@@ -11,8 +11,8 @@
 ║                                                                        ║
 ║  ## Created by GlaceYT!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/saezMrPAhf                           ║
+║  ## YouTube :                                                          ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -22,20 +22,20 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
+  ownerID: ["1217141423497936907", ""],
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1245296194905702421&permissions=8&scope=bot",
+  supportServer: "https://discord.gg/saezMrPAhf",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: '[MUSIC.COM]',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
-  errorLog: "",
+  errorLog: "1245308149020495942",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "",
   },
 
   voteManager: {
